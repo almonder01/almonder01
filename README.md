@@ -1,9 +1,12 @@
 # Hey 👋, I'm Al-monder!  
 
-<a href="https://www.linkedin.com/in/al-monder-bentaher/" target="_blank"><img align="left" alt="LinkedIn" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/assets/linkedin.svg" height="18px"/></a>
-<a href="mailto:almonderbentaher@email.com">
-  <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://www.linkedin.com/in/al-monder-bentaher/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+<a href="mailto:almonderbentaher@email.com">
+  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 <br/>
 
 ---
