@@ -4,7 +4,7 @@
   <img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
 </a>
 <a href="mailto:almonderbentaher@email.com">
-  <img align="left" alt="Gmail" width="30px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg"/>
+  <img align="left" alt="Gmail" width="30px" src="https://cdn-icons-png.flaticon.com/128/732/732200.png"/>
 </a>
 <br/>
 
