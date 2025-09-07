@@ -25,13 +25,9 @@
 
 ### 🔨 Tech Stack
 <a href="https://dotnet.microsoft.com/"><img align="left" alt=".NET" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"/></a>
-<a href="https://www.java.com/"><img align="left" alt="Java" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/></a>
 <a href="https://jakarta.ee/"><img align="left" alt="Java EE" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/></a>
-
 <a href="https://react.dev/"><img align="left" alt="React" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/></a>
-
 <a href="https://www.python.org/"><img align="left" alt="Python" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></a>
-<a href="https://www.tensorflow.org/"><img align="left" alt="TensorFlow" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg"/></a>
 <a href="https://isocpp.org/"><img align="left" alt="C++" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/></a>
 <a href="https://www.figma.com/"><img align="left" alt="Figma" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"/></a>
 <br/><br/>
