@@ -1,10 +1,10 @@
 # Hey 👋, I'm Al-monder!  
 
-<a href="https://www.linkedin.com/in/al-monder-bentaher/">
-  <img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
+<a target="_blank" href="https://www.linkedin.com/in/al-monder-bentaher/">
+  <img  align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
 </a>
-<a href="mailto:almonderbentaher@email.com">
-  <img align="left" alt="Gmail" width="30px" src="https://cdn-icons-png.flaticon.com/128/16509/16509529.png"/>
+<a target="_blank" href="mailto:almonderbentaher@email.com">
+  <img  align="left" alt="Gmail" width="30px" src="https://cdn-icons-png.flaticon.com/128/16509/16509529.png"/>
 </a>
 <br/>
 
